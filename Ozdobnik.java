@@ -1,6 +1,4 @@
 
-package wzorce;
-
 public abstract class Ozdobnik {
     
     private String opis;

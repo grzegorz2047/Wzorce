@@ -1,5 +1,4 @@
 
-package wzorce;
 
 public abstract class WstepDoMenu {
     private String opis; 

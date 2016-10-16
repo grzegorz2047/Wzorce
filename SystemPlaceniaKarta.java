@@ -1,5 +1,4 @@
 
-package wzorce;
 
 import java.util.GregorianCalendar;
 

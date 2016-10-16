@@ -1,5 +1,5 @@
 
-package wzorce;
+
 
 import java.math.BigDecimal;
 

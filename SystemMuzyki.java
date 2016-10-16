@@ -1,5 +1,5 @@
 
-package wzorce;
+
 
 public class SystemMuzyki {
     

@@ -1,6 +1,4 @@
 
-package wzorce;
-
 
 public class PolecenieKlimatyzacjaSrednia implements Polecenie{
     

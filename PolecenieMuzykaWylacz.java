@@ -1,6 +1,4 @@
 
-package wzorce;
-
 
 public class PolecenieMuzykaWylacz implements Polecenie{
     private SystemMuzyki muzyka;

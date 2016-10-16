@@ -1,5 +1,5 @@
 
-package wzorce;
+
 
 public class WstepDoMenuGwiazdka extends WstepDoMenu{
     public WstepDoMenuGwiazdka() {

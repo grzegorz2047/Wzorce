@@ -1,7 +1,3 @@
-
-package wzorce;
-
-
 public class Klimatyzacja {
     
     private int sila;

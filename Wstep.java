@@ -1,5 +1,5 @@
 
-package wzorce;
+
 
 public abstract class Wstep {
     private String tresc;

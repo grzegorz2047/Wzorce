@@ -1,6 +1,4 @@
 
-package wzorce;
-
 import java.util.ArrayList;
 
 public interface Obserwator {

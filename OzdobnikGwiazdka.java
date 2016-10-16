@@ -1,5 +1,4 @@
 
-package wzorce;
 
 public class OzdobnikGwiazdka extends Ozdobnik{
    

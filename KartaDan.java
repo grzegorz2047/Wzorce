@@ -1,6 +1,4 @@
 
-package wzorce;
-
 public class KartaDan {
     
     private Naglowek naglowek;
